@@ -1,5 +1,6 @@
 # CardioSpike case NO ML model
 
+17th place out of 29.
 
 https://leadersofdigital.ru/event/63008
 
