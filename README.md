@@ -1,6 +1,10 @@
 # CardioSpike case NO ML model
 
-17th place out of 29.
+More than 70% of deaths in COVID-19 are associated with acute heart failure and thrombosis. Clinical diagnostic methods do not allow us to determine the predictors of these problems.
+
+Participants have to create a covid anomaly detector based on the rhythmogram data.
+
+This not ML algorithm took 17th place out of 29.
 
 https://leadersofdigital.ru/event/63008
 
